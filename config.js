@@ -7,13 +7,12 @@ var config = {
         "心爱的姑娘",  // 同上...
         "今天是你的生日",
         "这是我们在一起的",
-        "第三个生日！",
-        "这两年来，我见过你",
+        "第一个生日！",
+        "这半年来，我见过你",
         "奇怪的样子",
         "可爱的样子",
         "生气的样子",
         "都是我喜欢的样子",
-        "对了，礼物收全了吗？",
         "今年要吃好好的",
         "喂饱饱的",
         "然后才有力气干活",
@@ -30,22 +29,21 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/nothing.jpg",
-        "今天是你的生日": "./imgs/shengri.jpeg",
-        "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第三个生日！": "./imgs/nothing.jpg",
-        "这两年来，我见过你": "./imgs/yangzi.jpeg",
-        "奇怪的样子": "./imgs/nothing.jpg",
-        "可爱的样子": "./imgs/nothing.jpg",
-        "生气的样子": "./imgs/nothing.jpg",
-        "都是我喜欢的样子": "./imgs/nothing.jpg",
-        "对了，礼物收全了吗？": "./imgs/chuo.gif",
-        "今年要吃好好的": "./imgs/chihaodian.jpeg",
-        "喂饱饱的": "./imgs/weibao.jpeg",
-        "然后才有力气干活": "./imgs/nothing.jpg",
-        "和想我！": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+        "送给我": "./imgs/1.jpg",
+        "心爱的姑娘": "./imgs/2.jpg",
+        "今天是你的生日": "./imgs/3.jpg",
+        "这是我们在一起的": "./imgs/4.jpg",
+        "第一个生日！": "./imgs/5.jpg",
+        "这半年来，我见过你": "./imgs/6.jpg",
+        "奇怪的样子": "./imgs/7.jpg",
+        "可爱的样子": "./imgs/8.jpg",
+        "生气的样子": "./imgs/9.jpg",
+        "都是我喜欢的样子": "./imgs/10.jpg",
+        "今年要吃好好的": "./imgs/chi.jpg",
+        "喂饱饱的": "./imgs/12.jpg",
+        "然后才有力气干活": "./imgs/13.jpg",
+        "和想我！": "./imgs/11.jpg",
+        "生日快乐~~": "./imgs/14.jpg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -61,5 +59,5 @@ var config = {
     },
 
     // 结束语
-    loveText: '爱你的X先生~'
+    loveText: '爱你的李先生~'
 };
